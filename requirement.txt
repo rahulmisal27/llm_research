@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+openai
+huggingface
+transformers
+torch
+torchvision
+tensorflow
+keras
+scikit-learn
+seaborn
